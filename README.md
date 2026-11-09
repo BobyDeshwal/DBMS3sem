@@ -100,4 +100,10 @@ DROP DATABASE IF EXISTS staysphere;
 ---
 
 *StaySphere — University DBMS Project*
+<img width="647" height="656" alt="Screenshot 2026-11-06 101804" src="https://github.com/user-attachments/assets/34d6c877-7ae5-4d19-aef5-a35020dbda81" />
+<img width="642" height="620" alt="Screenshot 2026-11-06 101819" src="https://github.com/user-attachments/assets/a4c6a974-47c8-4fa6-849f-707579404607" />
+<img width="666" height="622" alt="Screenshot 2026-11-06 101836" src="https://github.com/user-attachments/assets/d17ce34c-3dd7-456b-b86c-bc4a3a14c7f3" />
+<img width="748" height="630" alt="Screenshot 2026-11-06 101846" src="https://github.com/user-attachments/assets/e0549960-14e5-40fe-908b-d3e745462bfb" />
+
+
 
